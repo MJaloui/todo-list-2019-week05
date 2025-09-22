@@ -1,22 +1,28 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# To-Do List
 
-### Goal: Build a Simple Todo List
+<img width="853" height="862" alt="image" src="https://github.com/user-attachments/assets/6c831eb6-30f0-44c8-b87b-3d55177253e2" />
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Project Overview
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+This is a responsive to-do list application built to manage daily tasks.
+
+## Core Features
+
+* Add new tasks.
+* Mark tasks as completed.
+* Clear all completed tasks with a single action.
+* Wipe the entire list by clearing all tasks.
+
+## Technologies
+
+* **HTML:** Structuring the application content.
+* **CSS:** Styling a clean, intuitive user interface.
+* **JavaScript:** Handling all application logic and data manipulation.
+
+## Key Takeaways
+
+This project was an excellent opportunity to strengthen my skills in frontend development, specifically:
+* Dynamically creating and manipulating DOM elements using **JavaScript**.
+* Managing data persistence with **Local Storage**.
+* Applying advanced styling techniques with **CSS**.
